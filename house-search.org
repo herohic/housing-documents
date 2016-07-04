@@ -10,9 +10,9 @@ Higher priority is better out of 1000.
 3. Do we have to pay for HOA?
 
 ** General Notes
-1. If washer/dryer are not included we can rent a them for $35-$45 /mo from [[http://luxelaundryrentals.com/appliances.html#][Luxe LammUndry Rentals]].
+1. If washer/dryer are not included we can rent a them for $35-$45 /mo from [[http://luxelaundryrentals.com/appliances.html#][Luxe Laundry Rentals]].
 
-** ProPerties
+** Properties
 *** TOVIEW [[http://www.austincityhomesearch.com/listing/4496672-1906-morrow-st-austin-tx-78757/][1906 Morrow St]]
 :PROPERTIES:
 :priority:
@@ -97,7 +97,7 @@ Higher priority is better out of 1000.
 1. Can we use the shed in the backyard?
 2. Do you have more pictures?
 
-*** TOVIEW [[http://www.austincityhomesearch.com/listing/5783529-7608-shoal-creek-blvd-austin-tx-78757/][7608 Shoal Creek BLVD Austin, TX 78757]]
+*** TOVIEW [[http://www.austincityhomesearch.com/listing/5783529-7608-shoal-creek-blvd-austin-tx-78757/][7608 Shoal Creek BLVD A]]
 :PROPERTIES:
 :priority: 200
 :END:
