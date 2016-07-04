@@ -1,0 +1,185 @@
+#+TODO: TOVIEW | VIEWED CANCELLED
+
+* Housing
+
+Higher priority is better out of 1000.
+
+** General Questions
+1. Lawn Maintenance
+2. Washer/Dryer...
+3. Do we have to pay for HOA?
+
+** Properties
+*** TOVIEW 5903 Nasco DR
+:PROPERTIES:
+:priority: 750
+:END:
+
+http://matrix.abor.com/Matrix/Public/Portal.aspx?L=1&k=1544400X4LS8&p=ALL-0-0-H#1
+
+- $2000
+- has washer/dryer
+- nice wood floors; no carpeting
+- weird red room; light blue, light green other rooms
+- nice backyard with possible jacuzzi
+- 1 carport (covered)
+- good area
+
+**** Questions
+1. Short-term rental?
+
+*** TOVIEW 3620 A Summit BND
+:PROPERTIES:
+:priority: 750
+:END:
+
+http://matrix.abor.com/Matrix/Public/Portal.aspx?L=1&k=1544400X4LS8&p=ALL-0-0-H#1
+
+- cool floors
+- nice kitchen
+- has washer/dryer
+- has 2 carports
+
+*** TOVIEW 600 Franklin BLVD #A
+:PROPERTIES:
+:priority: 690
+:END:
+
+http://matrix.abor.com/Matrix/Public/Portal.aspx?L=1&k=1544400X4LS8&p=ALL-0-0-H#1
+
+- yay washer/dryer
+- good wooden floors; new carpet
+- it's k
+*** TOVIEW 1907 W 37th ST #B
+:PROPERTIES:
+:priority: 620
+:END:
+
+http://matrix.abor.com/Matrix/Public/Portal.aspx?L=1&k=1544400X4LS8&p=ALL-0-0-H#1
+
+- $2100
+- nice floors
+- has garage
+- gas stove
+
+**** Questions
+1. washer/dryer situation
+2. yard situation
+
+*** TOVIEW 2604 La Ronde ST
+:PROPERTIES:
+:priority: 600
+:END:
+
+http://matrix.abor.com/Matrix/Public/Portal.aspx?L=1&k=1544400X4LS8&p=ALL-0-0-H#1
+
+- nice floors
+- weird layout
+- electric stove
+
+**** Questions
+1. Ask about washer/dryer
+2. Show bedrooms
+
+
+*** TOVIEW 1712 Karen Ave #B
+:PROPERTIES:
+:priority: 595
+:END:
+
+http://matrix.abor.com/Matrix/Public/Portal.aspx?L=1&k=1544400X4LS8&p=ALL-0-0-H#1
+
+- $1,995 -- sweet price
+- decent location
+- electric stove
+- has washer/dryer
+- Hershal doesn't like the tiles
+
+*** TOVIEW 3604 Summit Bend #A
+:PROPERTIES:
+:priority: 510
+:END:
+
+http://matrix.abor.com/Matrix/Public/Portal.aspx?L=1&k=1544400X4LS8&p=ALL-0-0-H#1
+
+- $1995
+- nice price
+- nice hardwood floors
+- good location
+- no washer/dryer
+- electric stove
+
+*** TOVIEW 4908 Lynnwood ST
+:PROPERTIES:
+:priority: 500
+:END:
+
+http://matrix.abor.com/Matrix/Public/Portal.aspx?L=1&k=1544400X4LS8&p=ALL-0-0-H#1
+
+- $2,000
+- nice wood floors; tile in kitchen, bathroom (accented)
+- no washer dryer (whyyy)
+- small windows
+- weird backyard (confusing, why?)
+- duplex
+- closest to campus (near triangle)
+
+*** TOVIEW 1903 Belford DR
+:PROPERTIES:
+:priority: 500
+:END:
+
+http://matrix.abor.com/Matrix/Public/Portal.aspx?L=1&k=1544400X4LS8&p=ALL-0-0-H#1
+
+- $2195
+- 2 car garage
+- no washer/dryer (whyyy)
+- carpet in living room
+- has shed in backyard?
+- okay location (near train tracks (so you can kill yourself))
+
+**** Questions
+1. Can we use the shed in the backyard?
+2. Do you have more pictures?
+
+*** TOVIEW 2004 Teakwood DR
+:PROPERTIES:
+:priority: 420
+:END:
+
+http://matrix.abor.com/Matrix/Public/Portal.aspx?L=1&k=1544400X4LS8&p=ALL-0-0-H#1
+
+- $2,200
+- has wine cooler
+- nice floors
+- no bathroom pictures
+- old listing...?
+
+*** TOVIEW 7608 Shoal Creek BLVD Austin, TX 78757
+:PROPERTIES:
+:priority: 200
+:END:
+
+http://matrix.abor.com/Matrix/Public/Portal.aspx?L=1&k=1544400X4LS8&p=ALL-0-0-H#1
+
+Kinda pricey. No washer/dryer (annoying). Has garage. Has tiles.
+
+*** TOVIEW 8000 Hillrise DR
+PROPERTIES:
+:priority: 175
+:END:
+
+http://matrix.abor.com/Matrix/Public/Portal.aspx?L=1&k=1544400X4LS8&p=ALL-0-0-H#1
+
+- has carpet in bedrooms; tile in bathrooms
+- 2 car garage.
+- big backyard with rope ladder thing and dying grass
+- no washer/dryer (really bad)
+- $2,250 (pricey without washer/dryer)
+
+*** CANCELLED 3901 Knollwood DR #A
+http://matrix.abor.com/Matrix/Public/Portal.aspx?L=1&k=1544400X4LS8&p=ALL-0-0-H#1
+
+:PROPERTIES:
+:priority: 0
+:END:
