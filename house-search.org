@@ -41,34 +41,32 @@ Higher priority is better out of 1000.
 - little small
 - no washer/dryer
 
-*** TOVIEW [[http://www.austincityhomesearch.com/listing/6833094-2105-wooten-dr-austin-tx-78757/][2105 Wooten DR]]
+*** TOVIEW [[http://www.austincityhomesearch.com/listing/5682479-4604-highland-ter-austin-tx-78731/][4604 HIGHLAND TER]]
 :PROPERTIES:
 :priority:
 :END:
 
-- $2,185
-- 1467 sqft
-- nice kitchen 
-- wood floors
-- carpet in bedrooms
-- nice backyard
-- no washer/dryer
+- $2,250
+- 1290 sqft
+- no carpet
+- recently remodeled
+- includes washer/dryer
+- next to mopac
 
-*** TOVIEW [[http://www.austincityhomesearch.com/listing/8620046-2604-la-ronde-st-austin-tx-78731/][2604 La Ronde ST]]
+*** TOVIEW [[http://www.austincityhomesearch.com/listing/2633118-3800-avenue-h-austin-tx-78751/][3800 Avenue H]]
 :PROPERTIES:
-:priority: 600
+:priority:
 :END:
 
-- $2175
-- 1716 sqft
-- nice floors
-- weird layout
-- electric stove
+- $2350
+- 1566
+- all wood and tile
+- washer/dryer status unknown
+- nice location (Hyde Park)
+- gas stove
 
-**** Questions
-1. Ask about washer/dryer
-2. Show bedrooms
-   
+**** Questions?
+1. washer/dryer?
 *** TOVIEW [[http://www.austincityhomesearch.com/listing/1693009-1712-karen-ave-b-austin-tx-78757/][1712 Karen Ave #B]]
 :PROPERTIES:
 :priority: 595
@@ -98,6 +96,21 @@ Higher priority is better out of 1000.
 1. Can we use the shed in the backyard?
 2. Do you have more pictures?
 
+*** TOVIEW [[http://www.austincityhomesearch.com/listing/8620046-2604-la-ronde-st-austin-tx-78731/][2604 La Ronde ST]]
+:PROPERTIES:
+:priority: 600
+:END:
+
+- $2175
+- 1716 sqft
+- nice floors
+- weird layout
+- electric stove
+
+**** Questions
+1. Ask about washer/dryer
+2. Show bedrooms
+   
 *** TOVIEW [[http://www.austincityhomesearch.com/listing/5783529-7608-shoal-creek-blvd-austin-tx-78757/][7608 Shoal Creek BLVD A]]
 :PROPERTIES:
 :priority: 200
@@ -124,20 +137,6 @@ PROPERTIES:
 - no washer/dryer (really bad)
 - small dogs <35lbs
 
-*** TOVIEW [[http://www.austincityhomesearch.com/listing/2633118-3800-avenue-h-austin-tx-78751/][3800 Avenue H]]
-:PROPERTIES:
-:priority:
-:END:
-
-- $2350
-- 1566
-- all wood and tile
-- washer/dryer status unknown
-- nice location (Hyde Park)
-- gas stove
-
-**** Questions?
-1. washer/dryer?
 *** TOVIEW [[http://www.austincityhomesearch.com/listing/4754077-817-morrow-st-austin-tx-78757/][817 Morrow St]]
 :PROPERTIES:
 :priority:
@@ -149,6 +148,20 @@ PROPERTIES:
 - brand new
 - has washer/dryer
 - long drive to work for Eric and Hershal
+
+*** CANCELLED [[http://www.austincityhomesearch.com/listing/6833094-2105-wooten-dr-austin-tx-78757/][2105 Wooten DR]]
+CLOSED: [2016-07-05 Tue 17:16]
+:PROPERTIES:
+:priority:
+:END:
+
+- $2,185
+- 1467 sqft
+- nice kitchen 
+- wood floors
+- carpet in bedrooms
+- nice backyard
+- no washer/dryer
 
 *** CANCELLED 5903 Nasco DR
 CLOSED: [2016-07-04 Mon 15:55]
