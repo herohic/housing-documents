@@ -15,64 +15,62 @@ Higher priority is better out of 1000.
 2. [[http://www.austincityhomesearch.com/idx/search.html?edit_search=true&saved_search_id=2514][Link to search on ACR site]]
 
 ** Properties
-*** TOVIEW [[http://www.austincityhomesearch.com/listing/4496672-1906-morrow-st-austin-tx-78757/][1906 Morrow St]]
-ML#: 4496672
+*** TOVIEW [[http://www.austincityhomesearch.com/listing/8528370-5515-roosevelt-ave-austin-tx-78756/][5515 Roosevelt Ave]]
+ML#: 8528370
 :PROPERTIES:
 :priority:
 :END:
 
-- $2,245
-- 1,652 sqft
-- Available: July 1st
-- Washer/Dryer: No
-- Parking: 2 car garage
-- Pets: Yes/Breed Restrictions
-- Pet Dep: $400
-- Floors: stone, wood, carpet
-- great location
-- corner lot
-- huge backyard
-- sweet kitchen with gas stoves
+- $2,200
+- 1,680 sqft
+- Available: July 8th
+- Washer/Dryer: Yes/Maintained
+- Parking: Off street
+- Pets: Yes
+- Pet Dep: $150
+- Mo Pet Rent: $10
+- Floors: carpet, laminate, wood
+- central location
+- no kitchen pics
+- gravel backyard (less mowing)
 
-**** Typical Weekday Travel Times
-|          | 7:00 AM   | 8:30 AM   | 5:30 PM   | 6:30 PM   |
-|----------+-----------+-----------+-----------+-----------|
-| Shoretel |           | 20-35 min | 20-40 min | 20-35 min |
-| Nvidia   |           | 16-24 min | 18-26 min | 16-22 min |
-| Humaita  |           |           |           | 20-35 min |
-| Atomic   | 18-30 min |           |           |           |
-
-*** TOVIEW [[http://www.austincityhomesearch.com/listing/8620046-2604-la-ronde-st-austin-tx-78731/][2604 La Ronde ST]]
-ML#: 8620046
+*** TOVIEW [[http://matrix.abor.com/matrix/shared/G1GptrNwtTDd/4530HighlandTER][4530 Highland Ter]]
+ML#: 5322992
 :PROPERTIES:
-:priority: 600
+:priority:
 :END:
 
-- $2,175
-- 1,716 sqft
-- Available: July 12th
-- Washer/Dryer: No
+- $2,500 -- PRICEY
+- 1,857 sqft
+- Available: August 1st
+- Washer/Dryer: Yes/Not Maintained
 - Parking: 2 car carport
-- Pets: Yes/<50lbs
-- Pet Dep: $350
-- Floors: tile, wood, carpet (new), laminate
-- weird layout
-- electric stove
-- corner lot
-- yard not fenced
-- decent location
+- Pets: Yes
+- Pet Dep: $400
+- Floors: Carpet, Laminate
+- next to MOPAC
 
-**** Questions
-1. More pics?
-2. Parking situation
+*** TOVIEW [[http://www.zillow.com/homedetails/5512-Oakwood-Cv-APT-161-Austin-TX-78731/2134446442_zpid/][5512 Oakwood Cv #161]]
+ML#: 7381650
 
-**** Typical Weekday Travel Times
-|          | 7:00 AM   | 8:30 AM   | 5:30 PM   | 6:30 PM   |
-|----------+-----------+-----------+-----------+-----------|
-| Shoretel |           | 18-35 min | 18-30 min | 16-24 min |
-| Nvidia   |           | 16-22 min | 18-28 min | 16-22 min |
-| Humaita  |           |           |           | 18-30 min |
-| Atomic   | 14-22 min |           |           |           |
+- $2,399
+- 2,239 sqft -- HUGE
+- Washer/Dryer: No
+- Parking: 4
+- Pets: Yes with approval
+- West of MOPAC off 2222 
+
+*** TOVIEW [[http://www.austinhomesearch.com/rentals/6405-Shadow-Valley-Dr-UNIT-B-Austin-TX-78731-182864191][6405 Shadow Valley Dr #B]]
+ML#: 4544790
+
+- $1,695 -- Super Cheap!
+- 1,500 sqft -- Decent for price
+- Washer/Dryer: No
+- Parking: 1 car carport
+- Pets: Negotiable
+- lots of carpet
+- backs to greenbelt
+- near Far West HEB
 
 *** TOVIEW [[http://www.austincityhomesearch.com/listing/1693009-1712-karen-ave-b-austin-tx-78757/][1712 Karen Ave #B]]
 ML#: 1693009
@@ -92,7 +90,7 @@ ML#: 1693009
 - electric stove
 - Hershal doesn't like the tiles
 - big backyard
-
+  
 **** Questions
 1. Early move-in possible?
 2. Is sqft for duplex or unit B alone?
@@ -195,6 +193,67 @@ ML#: 4754077
 | Humaita  |           |           |           | 22-35 min |
 | Atomic   | 14-24 min |           |           |           |
  
+*** CANCELLED [[http://www.austincityhomesearch.com/listing/4496672-1906-morrow-st-austin-tx-78757/][1906 Morrow St]]
+CLOSED: [2016-07-11 Mon 12:35]
+ML#: 4496672
+:PROPERTIES:
+:priority:
+:END:
+
+- $2,245
+- 1,652 sqft
+- Available: July 1st
+- Washer/Dryer: No
+- Parking: 2 car garage
+- Pets: Yes/Breed Restrictions
+- Pet Dep: $400
+- Floors: stone, wood, carpet
+- great location
+- corner lot
+- huge backyard
+- sweet kitchen with gas stoves
+
+**** Typical Weekday Travel Times
+|          | 7:00 AM   | 8:30 AM   | 5:30 PM   | 6:30 PM   |
+|----------+-----------+-----------+-----------+-----------|
+| Shoretel |           | 20-35 min | 20-40 min | 20-35 min |
+| Nvidia   |           | 16-24 min | 18-26 min | 16-22 min |
+| Humaita  |           |           |           | 20-35 min |
+| Atomic   | 18-30 min |           |           |           |
+
+*** CANCELLED [[http://www.austincityhomesearch.com/listing/8620046-2604-la-ronde-st-austin-tx-78731/][2604 La Ronde ST]]
+CLOSED: [2016-07-11 Mon 12:35]
+ML#: 8620046
+:PROPERTIES:
+:priority: 600
+:END:
+
+- $2,175
+- 1,716 sqft
+- Available: July 12th
+- Washer/Dryer: No
+- Parking: 2 car carport
+- Pets: Yes/<50lbs
+- Pet Dep: $350
+- Floors: tile, wood, carpet (new), laminate
+- weird layout
+- electric stove
+- corner lot
+- yard not fenced
+- decent location
+
+**** Questions
+1. More pics?
+2. Parking situation
+
+**** Typical Weekday Travel Times
+|          | 7:00 AM   | 8:30 AM   | 5:30 PM   | 6:30 PM   |
+|----------+-----------+-----------+-----------+-----------|
+| Shoretel |           | 18-35 min | 18-30 min | 16-24 min |
+| Nvidia   |           | 16-22 min | 18-28 min | 16-22 min |
+| Humaita  |           |           |           | 18-30 min |
+| Atomic   | 14-22 min |           |           |           |
+
 *** CANCELLED [[http://www.austincityhomesearch.com/listing/7847952-4600-chiappero-trl-austin-tx-78731/][4600 Chiappero TRL]]
 CLOSED: [2016-07-06 Wed 11:44]
 ML#: 7847952
